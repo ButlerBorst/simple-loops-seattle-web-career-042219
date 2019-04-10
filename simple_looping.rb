@@ -30,7 +30,7 @@ def until_iterator(number_of_times)
 end
 
 def for_iterator(number_of_times)
-  c=7
+  c=1..7
   for c in 1..7 do
     puts "Welcome to Flatiron School's Web Development Course!"
     c-=1
