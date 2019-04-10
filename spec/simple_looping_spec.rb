@@ -1,5 +1,4 @@
 require_relative "../simple_looping"
-end
 
 describe 'Loops' do
   before(:each) do
