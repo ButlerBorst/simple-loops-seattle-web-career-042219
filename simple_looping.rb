@@ -1,6 +1,3 @@
-
-    
-
 def loop_iterator(number_of_times)
   z = 0
   loop do
@@ -25,7 +22,7 @@ def while_iterator(number_of_times)
 end
 
 def until_iterator(number_of_times)
-  b=7
+  b=0
   until b == 0
     puts "Welcome to Flatiron School's Web Development Course!"
     b-=1
